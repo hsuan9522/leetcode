@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/hsuan9522/leetcode#readme",
   "devDependencies": {
+    "@babel/preset-env": "^7.9.5",
     "jest": "^25.4.0"
   }
 }
