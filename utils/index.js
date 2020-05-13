@@ -21,4 +21,11 @@ const arrayToTreeNode = (arr) => {
   return root;
 }
 
-export { arrayToTreeNode };
+
+function nthPow(n,val,ans){
+  if(n===1) return val;
+  if (val === 1 || val % n != 0) return ans;
+  return nthRoot(n, val/n, ++ans)
+}
+
+export { arrayToTreeNode, nthPow };
