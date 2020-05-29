@@ -12,13 +12,24 @@ const arrayToTreeNode = (arr) => {
   for (let i = 1; i < arr.length; i += 2) {
    
     const tn = tns.shift();
-    tn.left = arr[i] ? new TreeNode(arr[i]) : new TreeNode(null);
-    tn.right = arr[i + 1] ? new TreeNode(arr[i + 1]) : new TreeNode(null);
+    tn.left = arr[i] ? new TreeNode(arr[i]) : null;
+    tn.right = arr[i + 1] ? new TreeNode(arr[i + 1]) : null;
     tns.push(tn.left);
     tns.push(tn.right);
   }
 
   return root;
+}
+
+const treeNodeToArray = (tree) =>{
+  let array = []
+  let point = tree;
+  if(!point) return false;
+  array.push(point.val);
+  array.push(treeNodeToArray(point.left));
+  array.push(treeNodeToArray(point.right));
+  
+  return array.filter(el=>el).flat();
 }
 
 
@@ -28,4 +39,4 @@ function nthPow(n,val,ans){
   return nthPow(n, val/n, ++ans)
 }
 
-export { arrayToTreeNode, nthPow };
+export { TreeNode, arrayToTreeNode, nthPow, treeNodeToArray };

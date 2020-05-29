@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --no-cache --onlyChanged"
+    "test": "jest --no-cache"
   },
   "repository": {
     "type": "git",
