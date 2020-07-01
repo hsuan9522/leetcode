@@ -7,7 +7,7 @@ const reverse = (x) => {
     let tmp = xArray.join('');
     returnNum = tmp * -1;
   } else {
-    returnNum = xArray.join('');
+    returnNum = parseInt(xArray.join(''));
   }
   if (Math.pow(2, 31) < parseInt(returnNum) || Math.pow(2, 31) * -1 > parseInt(returnNum)) {
     return 0;
