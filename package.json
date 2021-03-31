@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --no-cache"
+    "test": "jest --no-cache",
+    "mkdir": "bash ./run.sh"
   },
   "repository": {
     "type": "git",
