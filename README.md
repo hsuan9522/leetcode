@@ -2,7 +2,7 @@
 記錄自己的leetcode解題之路。使用語言為javascript，搭配jest使用。
 ### LeetCode Solution Table
 ---
-`64/1825`
+`66/1825`
 |  ID  |  Title  |  Difficulty  |  Done  |
 | ----  | ----  | :----:  | :----:  |
 |  1  |  [Two Sum ](https://leetcode.com/problems/two-sum/description/)  |  Easy  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0001.%20Two%20Sum/index.js) |
@@ -30,9 +30,9 @@
 |  23  |  [Merge k Sorted Lists ](https://leetcode.com/problems/merge-k-sorted-lists/description/)  |  Hard  | - |
 |  24  |  [Swap Nodes in Pairs ](https://leetcode.com/problems/swap-nodes-in-pairs/description/)  |  Medium  | - |
 |  25  |  [Reverse Nodes in k-Group ](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)  |  Hard  | - |
-|  26  |  [Remove Duplicates from Sorted Array ](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)  |  Easy  | - |
+|  26  |  [Remove Duplicates from Sorted Array ](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)  |  Easy  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0026.%20Remove%20Duplicates%20from%20Sorted%20Array/index.js) |
 |  27  |  [Remove Element ](https://leetcode.com/problems/remove-element/description/)  |  Easy  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0027.%20Remove%20Element/index.js) |
-|  28  |  [Implement strStr() ](https://leetcode.com/problems/implement-strstr()/description/)  |  Easy  | - |
+|  28  |  [Implement strStr() ](https://leetcode.com/problems/implement-strstr()/description/)  |  Easy  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0028.%20Implement%20strStr/index.js) |
 |  29  |  [Divide Two Integers ](https://leetcode.com/problems/divide-two-integers/description/)  |  Medium  | - |
 |  30  |  [Substring with Concatenation of All Words ](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)  |  Hard  | - |
 |  31  |  [Next Permutation ](https://leetcode.com/problems/next-permutation/description/)  |  Medium  | - |
