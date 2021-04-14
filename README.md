@@ -9,7 +9,7 @@
 |  2  |  [Add Two Numbers ](https://leetcode.com/problems/add-two-numbers/description/)  |  Medium  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0002.%20Add%20Two%20Numbers/index.js) |
 |  3  |  [Longest Substring Without Repeating Characters ](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)  |  Medium  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0003.%20Longest%20Substring%20Without%20Repeating%20Characters/index.js) |
 |  4  |  [Median of Two Sorted Arrays ](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)  |  Hard  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0004.%20Median%20of%20Two%20Sorted%20Arrays/index.js) |
-|  5  |  [Longest Palindromic Substring ](https://leetcode.com/problems/longest-palindromic-substring/description/)  |  Medium  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0005.%20Longest%20Palindromic%20Substring/index.js) |
+|  5  |  [Longest Palindromic Substring ](https://leetcode.com/problems/longest-palindromic-substring/description/)  |  Medium  | - |
 |  6  |  [ZigZag Conversion ](https://leetcode.com/problems/zigzag-conversion/description/)  |  Medium  | - |
 |  7  |  [Reverse Integer ](https://leetcode.com/problems/reverse-integer/description/)  |  Easy  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0007.%20Reverse%20Integer/index.js) |
 |  8  |  [String to Integer (atoi) ](https://leetcode.com/problems/string-to-integer-(atoi)/description/)  |  Medium  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0008.%20String%20to%20Integer/index.js) |
@@ -17,7 +17,7 @@
 |  10  |  [Regular Expression Matching ](https://leetcode.com/problems/regular-expression-matching/description/)  |  Hard  | - |
 |  11  |  [Container With Most Water ](https://leetcode.com/problems/container-with-most-water/description/)  |  Medium  | - |
 |  12  |  [Integer to Roman ](https://leetcode.com/problems/integer-to-roman/description/)  |  Medium  | - |
-|  13  |  [Roman to Integer ](https://leetcode.com/problems/roman-to-integer/description/)  |  Easy  | - |
+|  13  |  [Roman to Integer ](https://leetcode.com/problems/roman-to-integer/description/)  |  Easy  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0013.%20Roman%20to%20Integer/index.js) |
 |  14  |  [Longest Common Prefix ](https://leetcode.com/problems/longest-common-prefix/description/)  |  Easy  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0014.%20Longest%20Common%20Prefix/index.js) |
 |  15  |  [3Sum ](https://leetcode.com/problems/3sum/description/)  |  Medium  | - |
 |  16  |  [3Sum Closest ](https://leetcode.com/problems/3sum-closest/description/)  |  Medium  | - |
@@ -25,7 +25,7 @@
 |  18  |  [4Sum ](https://leetcode.com/problems/4sum/description/)  |  Medium  | - |
 |  19  |  [Remove Nth Node From End of List ](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)  |  Medium  | - |
 |  20  |  [Valid Parentheses ](https://leetcode.com/problems/valid-parentheses/description/)  |  Easy  | - |
-|  21  |  [Merge Two Sorted Lists ](https://leetcode.com/problems/merge-two-sorted-lists/description/)  |  Easy  | - |
+|  21  |  [Merge Two Sorted Lists ](https://leetcode.com/problems/merge-two-sorted-lists/description/)  |  Easy  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0021.%20Merge%20Two%20Sorted%20Lists/index.js) |
 |  22  |  [Generate Parentheses ](https://leetcode.com/problems/generate-parentheses/description/)  |  Medium  | - |
 |  23  |  [Merge k Sorted Lists ](https://leetcode.com/problems/merge-k-sorted-lists/description/)  |  Hard  | - |
 |  24  |  [Swap Nodes in Pairs ](https://leetcode.com/problems/swap-nodes-in-pairs/description/)  |  Medium  | - |
@@ -1394,7 +1394,7 @@
 |  1479  |  [Construct Target Array With Multiple Sums ](https://leetcode.com/problems/construct-target-array-with-multiple-sums/description/)  |  Hard  | - |
 |  1480  |  [Movie Rating 🔒](https://leetcode.com/problems/movie-rating/description/)  |  Medium  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/1480.%20Running%20Sum%20of%201d%20Array/index.js) |
 |  1481  |  [Students With Invalid Departments 🔒](https://leetcode.com/problems/students-with-invalid-departments/description/)  |  Easy  | - |
-|  1482  |  [How Many Numbers Are Smaller Than the Current Number ](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/)  |  Easy  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/1482.%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets/index.js) |
+|  1482  |  [How Many Numbers Are Smaller Than the Current Number ](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/)  |  Easy  | - |
 |  1483  |  [Rank Teams by Votes ](https://leetcode.com/problems/rank-teams-by-votes/description/)  |  Medium  | - |
 |  1484  |  [Linked List in Binary Tree ](https://leetcode.com/problems/linked-list-in-binary-tree/description/)  |  Medium  | - |
 |  1485  |  [Minimum Cost to Make at Least One Valid Path in a Grid ](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/)  |  Hard  | - |
