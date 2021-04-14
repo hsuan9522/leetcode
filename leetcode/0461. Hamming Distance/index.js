@@ -1,4 +1,4 @@
-import { nthPow } from '../utils/index'
+import { nthPow } from '../../utils/index'
 
 const hammingDistance = (x,y) => {
   let difference = x^y;

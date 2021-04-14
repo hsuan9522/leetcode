@@ -1,5 +1,5 @@
 import rangeSumBST from './index';
-import { arrayToTreeNode } from '../utils/index'
+import { arrayToTreeNode } from '../../utils/index'
 
 describe('rangeSumBST', () => {
   test('A', () => {

@@ -1,4 +1,4 @@
-import { ListNode } from '../utils/index';
+import { ListNode } from '../../utils/index';
 
 // function ListNode(val, next) {
 //   this.val = (val === undefined ? 0 : val)

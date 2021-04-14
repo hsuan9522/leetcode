@@ -1,5 +1,5 @@
 import addTwoNumbers from './index';
-import {arrayToListNode, listNodeToArray} from '../utils/index';
+import {arrayToListNode, listNodeToArray} from '../../utils/index';
 describe('addTwoNumber', ()=>{
   test('A',()=>{
     let a = arrayToListNode([2,4,3]);

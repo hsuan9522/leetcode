@@ -1,5 +1,5 @@
 import mergeTrees from "./index";
-import { arrayToTreeNode} from "../utils/index";
+import { arrayToTreeNode} from "../../utils/index";
 describe("mergeTrees", () => {
   test("A", () =>{
     let t1 = arrayToTreeNode([1, 3, 2, 5]);

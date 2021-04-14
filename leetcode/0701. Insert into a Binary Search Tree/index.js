@@ -1,4 +1,4 @@
-import {TreeNode, arrayToTreeNode} from '../utils/index';
+import {TreeNode, arrayToTreeNode} from '../../utils/index';
 
 const insertIntoBST = (root, val) => {
   let point = root.val;
