@@ -2,7 +2,7 @@
 記錄自己的leetcode解題之路。使用語言為javascript，搭配jest使用。
 ### LeetCode Solution Table
 ---
-`70/1825`
+`73/1825`
 |  ID  |  Title  |  Difficulty  |  Done  |
 | ----  | ----  | :----:  | :----:  |
 |  1  |  [Two Sum ](https://leetcode.com/problems/two-sum/description/)  |  Easy  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0001.%20Two%20Sum/index.js) |
@@ -10,7 +10,7 @@
 |  3  |  [Longest Substring Without Repeating Characters ](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)  |  Medium  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0003.%20Longest%20Substring%20Without%20Repeating%20Characters/index.js) |
 |  4  |  [Median of Two Sorted Arrays ](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)  |  Hard  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0004.%20Median%20of%20Two%20Sorted%20Arrays/index.js) |
 |  5  |  [Longest Palindromic Substring ](https://leetcode.com/problems/longest-palindromic-substring/description/)  |  Medium  | - |
-|  6  |  [ZigZag Conversion ](https://leetcode.com/problems/zigzag-conversion/description/)  |  Medium  | - |
+|  6  |  [ZigZag Conversion ](https://leetcode.com/problems/zigzag-conversion/description/)  |  Medium  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0006.%20ZigZag%20Conversion/index.js) |
 |  7  |  [Reverse Integer ](https://leetcode.com/problems/reverse-integer/description/)  |  Easy  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0007.%20Reverse%20Integer/index.js) |
 |  8  |  [String to Integer (atoi) ](https://leetcode.com/problems/string-to-integer-(atoi)/description/)  |  Medium  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0008.%20String%20to%20Integer/index.js) |
 |  9  |  [Palindrome Number ](https://leetcode.com/problems/palindrome-number/description/)  |  Easy  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0009.%20Palindrome%20Number/index.js) |
@@ -1388,7 +1388,7 @@
 |  1473  |  [Find the Longest Substring Containing Vowels in Even Counts ](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/description/)  |  Medium  | - |
 |  1474  |  [Longest ZigZag Path in a Binary Tree ](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/description/)  |  Medium  | - |
 |  1475  |  [Maximum Sum BST in Binary Tree ](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/)  |  Hard  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop/index.js) |
-|  1476  |  [Count Negative Numbers in a Sorted Matrix ](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/)  |  Easy  | - |
+|  1476  |  [Count Negative Numbers in a Sorted Matrix ](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/)  |  Easy  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/1476.%20Subrectangle%20Queries/index.js) |
 |  1477  |  [Product of the Last K Numbers ](https://leetcode.com/problems/product-of-the-last-k-numbers/description/)  |  Medium  | - |
 |  1478  |  [Maximum Number of Events That Can Be Attended ](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/)  |  Medium  | - |
 |  1479  |  [Construct Target Array With Multiple Sums ](https://leetcode.com/problems/construct-target-array-with-multiple-sums/description/)  |  Hard  | - |
@@ -1664,7 +1664,7 @@
 |  1771  |  [Sell Diminishing-Valued Colored Balls ](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/description/)  |  Medium  | - |
 |  1772  |  [Create Sorted Array through Instructions ](https://leetcode.com/problems/create-sorted-array-through-instructions/description/)  |  Hard  | - |
 |  1773  |  [Percentage of Users Attended a Contest 🔒](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/)  |  Easy  | - |
-|  1774  |  [Add Two Polynomials Represented as Linked Lists 🔒](https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists/description/)  |  Medium  | - |
+|  1774  |  [Add Two Polynomials Represented as Linked Lists 🔒](https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists/description/)  |  Medium  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/1774.%20Closest%20Dessert%20Cost/index.js) |
 |  1775  |  [Design an Ordered Stream ](https://leetcode.com/problems/design-an-ordered-stream/description/)  |  Easy  | - |
 |  1776  |  [Minimum Operations to Reduce X to Zero ](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/description/)  |  Medium  | - |
 |  1777  |  [Determine if Two Strings Are Close ](https://leetcode.com/problems/determine-if-two-strings-are-close/description/)  |  Medium  | - |
