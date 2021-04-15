@@ -54,6 +54,7 @@ callRequest(async (err, body) => {
 });
 
 function makeData(data) {
+    const sql = [175, 176, 185]
     const levelMap = {
         1: "Easy",
         2: "Medium",
@@ -61,7 +62,8 @@ function makeData(data) {
     };
     let allString = "";
     data.forEach((el) => {
-        const isDone = doneList.includes(el.id) ? `[✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/${folderNames[el.id]}/index.js)` : "-";
+        const extension = sql.includes(el.id) ? 'sql' : 'js'
+        const isDone = doneList.includes(el.id) ? `[✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/${folderNames[el.id]}/index.${extension})` : "-";
         const fileName = `[${el.title} ${el.paid ? "🔒" : ""}](https://leetcode.com/problems/${el.title.toLowerCase().replace(/ /g, "-")}/description/)`;
         let string = `|  ${el.id}  |  ${fileName}  |  ${levelMap[el.level]}  | ${isDone} |\n`;
 

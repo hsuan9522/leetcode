@@ -2,7 +2,7 @@
 記錄自己的leetcode解題之路。使用語言為javascript，搭配jest使用。
 ### LeetCode Solution Table
 ---
-`66/1825`
+`70/1825`
 |  ID  |  Title  |  Difficulty  |  Done  |
 | ----  | ----  | :----:  | :----:  |
 |  1  |  [Two Sum ](https://leetcode.com/problems/two-sum/description/)  |  Easy  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0001.%20Two%20Sum/index.js) |
@@ -179,8 +179,8 @@
 |  172  |  [Factorial Trailing Zeroes ](https://leetcode.com/problems/factorial-trailing-zeroes/description/)  |  Easy  | - |
 |  173  |  [Binary Search Tree Iterator ](https://leetcode.com/problems/binary-search-tree-iterator/description/)  |  Medium  | - |
 |  174  |  [Dungeon Game ](https://leetcode.com/problems/dungeon-game/description/)  |  Hard  | - |
-|  175  |  [Combine Two Tables ](https://leetcode.com/problems/combine-two-tables/description/)  |  Easy  | - |
-|  176  |  [Second Highest Salary ](https://leetcode.com/problems/second-highest-salary/description/)  |  Easy  | - |
+|  175  |  [Combine Two Tables ](https://leetcode.com/problems/combine-two-tables/description/)  |  Easy  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0175.%20Combine%20Two%20Tables/index.sql) |
+|  176  |  [Second Highest Salary ](https://leetcode.com/problems/second-highest-salary/description/)  |  Easy  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0176.%20Second%20Highest%20Salary/index.sql) |
 |  177  |  [Nth Highest Salary ](https://leetcode.com/problems/nth-highest-salary/description/)  |  Medium  | - |
 |  178  |  [Rank Scores ](https://leetcode.com/problems/rank-scores/description/)  |  Medium  | - |
 |  179  |  [Largest Number ](https://leetcode.com/problems/largest-number/description/)  |  Medium  | - |
@@ -189,7 +189,7 @@
 |  182  |  [Duplicate Emails ](https://leetcode.com/problems/duplicate-emails/description/)  |  Easy  | - |
 |  183  |  [Customers Who Never Order ](https://leetcode.com/problems/customers-who-never-order/description/)  |  Easy  | - |
 |  184  |  [Department Highest Salary ](https://leetcode.com/problems/department-highest-salary/description/)  |  Medium  | - |
-|  185  |  [Department Top Three Salaries ](https://leetcode.com/problems/department-top-three-salaries/description/)  |  Hard  | - |
+|  185  |  [Department Top Three Salaries ](https://leetcode.com/problems/department-top-three-salaries/description/)  |  Hard  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0185.%20Department%20Top%20Three%20Salaries/index.sql) |
 |  186  |  [Reverse Words in a String II 🔒](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/)  |  Medium  | - |
 |  187  |  [Repeated DNA Sequences ](https://leetcode.com/problems/repeated-dna-sequences/description/)  |  Medium  | - |
 |  188  |  [Best Time to Buy and Sell Stock IV ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)  |  Hard  | - |
@@ -548,7 +548,7 @@
 |  554  |  [Brick Wall ](https://leetcode.com/problems/brick-wall/description/)  |  Medium  | - |
 |  555  |  [Split Concatenated Strings 🔒](https://leetcode.com/problems/split-concatenated-strings/description/)  |  Medium  | - |
 |  556  |  [Next Greater Element III ](https://leetcode.com/problems/next-greater-element-iii/description/)  |  Medium  | - |
-|  557  |  [Reverse Words in a String III ](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)  |  Easy  | - |
+|  557  |  [Reverse Words in a String III ](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)  |  Easy  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0557.%20Reverse%20Words%20in%20a%20String%20III/index.js) |
 |  560  |  [Subarray Sum Equals K ](https://leetcode.com/problems/subarray-sum-equals-k/description/)  |  Medium  | - |
 |  561  |  [Array Partition I ](https://leetcode.com/problems/array-partition-i/description/)  |  Easy  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0561.%20Array%20Partition%20I/index.js) |
 |  562  |  [Longest Line of Consecutive One in Matrix 🔒](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/description/)  |  Medium  | - |
