@@ -1,5 +1,6 @@
 ## 介紹
 記錄自己的leetcode解題之路。使用語言主要為javascript，搭配jest使用。
+
 [Timeline](https://github.com/hsuan9522/leetcode/blob/master/TIMELINE.md)
 ### LeetCode Solution Table
 ---

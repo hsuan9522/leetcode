@@ -45,7 +45,7 @@ function readme() {
             const doneLength = doneList.length;
             fs.writeFile(
                 "README.md",
-                "## 介紹\n記錄自己的leetcode解題之路。使用語言主要為javascript，搭配jest使用。\n[Timeline](https://github.com/hsuan9522/leetcode/blob/master/TIMELINE.md)\n### LeetCode Solution Table\n---\n`" +
+                "## 介紹\n記錄自己的leetcode解題之路。使用語言主要為javascript，搭配jest使用。\n\n[Timeline](https://github.com/hsuan9522/leetcode/blob/master/TIMELINE.md)\n### LeetCode Solution Table\n---\n`" +
                 `${doneLength}/${allLength}` +
                 "`\n" + `|  ID  |  Title  |  Difficulty  |  Done  |\n| ----  | ----  | :----:  | :----:  |\n`,
                 (err) => { }
