@@ -1,8 +1,9 @@
 ## 介紹
-記錄自己的leetcode解題之路。使用語言為javascript，搭配jest使用。
+記錄自己的leetcode解題之路。使用語言主要為javascript，搭配jest使用。
+[Timeline](https://github.com/hsuan9522/leetcode/blob/master/TIMELINE.md)
 ### LeetCode Solution Table
 ---
-`74/1825`
+`73/1825`
 |  ID  |  Title  |  Difficulty  |  Done  |
 | ----  | ----  | :----:  | :----:  |
 |  1  |  [Two Sum ](https://leetcode.com/problems/two-sum/description/)  |  Easy  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0001.%20Two%20Sum/index.js) |
@@ -1664,7 +1665,7 @@
 |  1771  |  [Sell Diminishing-Valued Colored Balls ](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/description/)  |  Medium  | - |
 |  1772  |  [Create Sorted Array through Instructions ](https://leetcode.com/problems/create-sorted-array-through-instructions/description/)  |  Hard  | - |
 |  1773  |  [Percentage of Users Attended a Contest 🔒](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/)  |  Easy  | - |
-|  1774  |  [Add Two Polynomials Represented as Linked Lists 🔒](https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists/description/)  |  Medium  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/1774.%20Closest%20Dessert%20Cost/index.js) |
+|  1774  |  [Add Two Polynomials Represented as Linked Lists 🔒](https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists/description/)  |  Medium  | - |
 |  1775  |  [Design an Ordered Stream ](https://leetcode.com/problems/design-an-ordered-stream/description/)  |  Easy  | - |
 |  1776  |  [Minimum Operations to Reduce X to Zero ](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/description/)  |  Medium  | - |
 |  1777  |  [Determine if Two Strings Are Close ](https://leetcode.com/problems/determine-if-two-strings-are-close/description/)  |  Medium  | - |

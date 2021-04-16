@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --no-cache",
-    "mkdir": "bash ./run.sh",
-    "generate": "node generateMarkdown.js"
+    "mkdir": "bash ./scripts/run.sh",
+    "gen": "node ./scripts"
   },
   "repository": {
     "type": "git",
@@ -28,6 +28,7 @@
     "jest": "^25.4.0"
   },
   "dependencies": {
+    "gitlog": "^4.0.4",
     "request": "^2.88.2"
   }
 }
