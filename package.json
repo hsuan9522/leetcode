@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --no-cache",
-    "mkdir": "bash ./run.sh"
+    "mkdir": "bash ./run.sh",
+    "generate": "node generateMarkdown.js"
   },
   "repository": {
     "type": "git",
