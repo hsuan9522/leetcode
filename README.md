@@ -2,7 +2,7 @@
 記錄自己的leetcode解題之路。使用語言為javascript，搭配jest使用。
 ### LeetCode Solution Table
 ---
-`73/1825`
+`74/1825`
 |  ID  |  Title  |  Difficulty  |  Done  |
 | ----  | ----  | :----:  | :----:  |
 |  1  |  [Two Sum ](https://leetcode.com/problems/two-sum/description/)  |  Easy  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0001.%20Two%20Sum/index.js) |
