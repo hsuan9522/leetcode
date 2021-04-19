@@ -2,8 +2,10 @@
 ```markdown
 
 # 2021/4/19
-* 1822. Sign of the Product of an Array
+* 0852. Peak Index in a Mountain Array
+* 1773. Count Items Matching a Rule
 * 1832. Check if the Sentence Is Pangram
+* 1822. Sign of the Product of an Array
 
 # 2021/4/16
 * 1302. Deepest Leaves Sum

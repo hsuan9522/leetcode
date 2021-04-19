@@ -4,7 +4,7 @@
 [Timeline](https://github.com/hsuan9522/leetcode/blob/master/TIMELINE.md)
 ### LeetCode Solution Table
 ---
-`75/1830`
+`77/1830`
 |  ID  |  Title  |  Difficulty  |  Done  |
 | ----  | ----  | :----:  | :----:  |
 |  1  |  [Two Sum ](https://leetcode.com/problems/two-sum/description/)  |  Easy  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0001.%20Two%20Sum/index.js) |
@@ -821,7 +821,7 @@
 |  843  |  [Binary Trees With Factors ](https://leetcode.com/problems/binary-trees-with-factors/description/)  |  Medium  | - |
 |  850  |  [Insert into a Sorted Circular Linked List 🔒](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/description/)  |  Medium  | - |
 |  851  |  [Goat Latin ](https://leetcode.com/problems/goat-latin/description/)  |  Easy  | - |
-|  852  |  [Friends Of Appropriate Ages ](https://leetcode.com/problems/friends-of-appropriate-ages/description/)  |  Medium  | - |
+|  852  |  [Friends Of Appropriate Ages ](https://leetcode.com/problems/friends-of-appropriate-ages/description/)  |  Medium  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0852.%20Peak%20Index%20in%20a%20Mountain%20Array/index.js) |
 |  853  |  [Most Profit Assigning Work ](https://leetcode.com/problems/most-profit-assigning-work/description/)  |  Medium  | - |
 |  854  |  [Making A Large Island ](https://leetcode.com/problems/making-a-large-island/description/)  |  Hard  | - |
 |  855  |  [Count Unique Characters of All Substrings of a Given String ](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/description/)  |  Hard  | - |
@@ -1665,7 +1665,7 @@
 |  1770  |  [Minimum Deletions to Make Character Frequencies Unique ](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/description/)  |  Medium  | - |
 |  1771  |  [Sell Diminishing-Valued Colored Balls ](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/description/)  |  Medium  | - |
 |  1772  |  [Create Sorted Array through Instructions ](https://leetcode.com/problems/create-sorted-array-through-instructions/description/)  |  Hard  | - |
-|  1773  |  [Percentage of Users Attended a Contest 🔒](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/)  |  Easy  | - |
+|  1773  |  [Percentage of Users Attended a Contest 🔒](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/)  |  Easy  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/1773.%20Count%20Items%20Matching%20a%20Rule/index.js) |
 |  1774  |  [Add Two Polynomials Represented as Linked Lists 🔒](https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists/description/)  |  Medium  | - |
 |  1775  |  [Design an Ordered Stream ](https://leetcode.com/problems/design-an-ordered-stream/description/)  |  Easy  | - |
 |  1776  |  [Minimum Operations to Reduce X to Zero ](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/description/)  |  Medium  | - |
