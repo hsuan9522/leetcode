@@ -1,6 +1,10 @@
 ### Detail
 ```markdown
 
+# 2021/4/19
+* 1822. Sign of the Product of an Array
+* 1832. Check if the Sentence Is Pangram
+
 # 2021/4/16
 * 1302. Deepest Leaves Sum
 

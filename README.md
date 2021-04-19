@@ -4,7 +4,7 @@
 [Timeline](https://github.com/hsuan9522/leetcode/blob/master/TIMELINE.md)
 ### LeetCode Solution Table
 ---
-`73/1825`
+`75/1830`
 |  ID  |  Title  |  Difficulty  |  Done  |
 | ----  | ----  | :----:  | :----:  |
 |  1  |  [Two Sum ](https://leetcode.com/problems/two-sum/description/)  |  Easy  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0001.%20Two%20Sum/index.js) |
@@ -1714,7 +1714,7 @@
 |  1819  |  [Construct the Lexicographically Largest Valid Sequence ](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/description/)  |  Medium  | - |
 |  1820  |  [Number Of Ways To Reconstruct A Tree ](https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/description/)  |  Hard  | - |
 |  1821  |  [Product's Worth Over Invoices 🔒](https://leetcode.com/problems/product's-worth-over-invoices/description/)  |  Easy  | - |
-|  1822  |  [Longest Palindromic Subsequence II 🔒](https://leetcode.com/problems/longest-palindromic-subsequence-ii/description/)  |  Medium  | - |
+|  1822  |  [Longest Palindromic Subsequence II 🔒](https://leetcode.com/problems/longest-palindromic-subsequence-ii/description/)  |  Medium  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/1822.%20Sign%20of%20the%20Product%20of%20an%20Array/index.js) |
 |  1823  |  [Determine if String Halves Are Alike ](https://leetcode.com/problems/determine-if-string-halves-are-alike/description/)  |  Easy  | - |
 |  1824  |  [Maximum Number of Eaten Apples ](https://leetcode.com/problems/maximum-number-of-eaten-apples/description/)  |  Medium  | - |
 |  1825  |  [Find Minimum Time to Finish All Jobs ](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/description/)  |  Hard  | - |
@@ -1724,7 +1724,7 @@
 |  1829  |  [Maximum Units on a Truck ](https://leetcode.com/problems/maximum-units-on-a-truck/description/)  |  Easy  | - |
 |  1830  |  [Count Good Meals ](https://leetcode.com/problems/count-good-meals/description/)  |  Medium  | - |
 |  1831  |  [Ways to Split Array Into Three Subarrays ](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/description/)  |  Medium  | - |
-|  1832  |  [Minimum Operations to Make a Subsequence ](https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/description/)  |  Hard  | - |
+|  1832  |  [Minimum Operations to Make a Subsequence ](https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/description/)  |  Hard  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram/index.js) |
 |  1833  |  [Find the Highest Altitude ](https://leetcode.com/problems/find-the-highest-altitude/description/)  |  Easy  | - |
 |  1834  |  [Minimum Number of People to Teach ](https://leetcode.com/problems/minimum-number-of-people-to-teach/description/)  |  Medium  | - |
 |  1835  |  [Decode XORed Permutation ](https://leetcode.com/problems/decode-xored-permutation/description/)  |  Medium  | - |
@@ -1815,6 +1815,10 @@
 |  1935  |  [Minimum Number of Operations to Reinitialize a Permutation ](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/description/)  |  Medium  | - |
 |  1936  |  [Maximize Number of Nice Divisors ](https://leetcode.com/problems/maximize-number-of-nice-divisors/description/)  |  Hard  | - |
 |  1937  |  [Maximize the Beauty of the Garden 🔒](https://leetcode.com/problems/maximize-the-beauty-of-the-garden/description/)  |  Hard  | - |
+|  1938  |  [Minimum Operations to Make the Array Increasing ](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/description/)  |  Easy  | - |
+|  1939  |  [Queries on Number of Points Inside a Circle ](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/description/)  |  Medium  | - |
+|  1940  |  [Maximum XOR for Each Query ](https://leetcode.com/problems/maximum-xor-for-each-query/description/)  |  Medium  | - |
+|  1941  |  [Minimum Number of Operations to Make String Sorted ](https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/description/)  |  Hard  | - |
 |  1942  |  [Primary Department for Each Employee 🔒](https://leetcode.com/problems/primary-department-for-each-employee/description/)  |  Easy  | - |
 |  1943  |  [Count Pairs of Equal Substrings With Minimum Difference 🔒](https://leetcode.com/problems/count-pairs-of-equal-substrings-with-minimum-difference/description/)  |  Medium  | - |
 |  1944  |  [Truncate Sentence ](https://leetcode.com/problems/truncate-sentence/description/)  |  Easy  | - |
@@ -1832,3 +1836,4 @@
 |  1964  |  [Find Interview Candidates 🔒](https://leetcode.com/problems/find-interview-candidates/description/)  |  Medium  | - |
 |  1969  |  [Maximum Number of Accepted Invitations 🔒](https://leetcode.com/problems/maximum-number-of-accepted-invitations/description/)  |  Medium  | - |
 |  1974  |  [Find Customers With Positive Revenue this Year 🔒](https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/description/)  |  Easy  | - |
+|  1980  |  [Faulty Sensor 🔒](https://leetcode.com/problems/faulty-sensor/description/)  |  Easy  | - |
