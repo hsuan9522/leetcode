@@ -1,9 +1,11 @@
 ### Detail
 ```markdown
 
+# 2021/4/20
+* 0590. N-ary Tree Postorder Traversal
+* 0922. Sort Array By Parity II
+
 # 2021/4/19
-* 0852. Peak Index in a Mountain Array
-* 1773. Count Items Matching a Rule
 * 1832. Check if the Sentence Is Pangram
 * 1822. Sign of the Product of an Array
 

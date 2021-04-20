@@ -4,7 +4,7 @@
 [Timeline](https://github.com/hsuan9522/leetcode/blob/master/TIMELINE.md)
 ### LeetCode Solution Table
 ---
-`77/1830`
+`79/1830`
 |  ID  |  Title  |  Difficulty  |  Done  |
 | ----  | ----  | :----:  | :----:  |
 |  1  |  [Two Sum ](https://leetcode.com/problems/two-sum/description/)  |  Easy  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0001.%20Two%20Sum/index.js) |
@@ -891,7 +891,7 @@
 |  919  |  [Projection Area of 3D Shapes ](https://leetcode.com/problems/projection-area-of-3d-shapes/description/)  |  Easy  | - |
 |  920  |  [Uncommon Words from Two Sentences ](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/)  |  Easy  | - |
 |  921  |  [Spiral Matrix III ](https://leetcode.com/problems/spiral-matrix-iii/description/)  |  Medium  | - |
-|  922  |  [Possible Bipartition ](https://leetcode.com/problems/possible-bipartition/description/)  |  Medium  | - |
+|  922  |  [Possible Bipartition ](https://leetcode.com/problems/possible-bipartition/description/)  |  Medium  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0922.%20Sort%20Array%20By%20Parity%20II/index.js) |
 |  923  |  [Super Egg Drop ](https://leetcode.com/problems/super-egg-drop/description/)  |  Hard  | - |
 |  924  |  [Fair Candy Swap ](https://leetcode.com/problems/fair-candy-swap/description/)  |  Easy  | - |
 |  925  |  [Construct Binary Tree from Preorder and Postorder Traversal ](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/)  |  Medium  | - |
