@@ -4,7 +4,7 @@
 [Timeline](https://github.com/hsuan9522/leetcode/blob/master/TIMELINE.md)
 ### LeetCode Solution Table
 ---
-`79/1830`
+`80/1835`
 |  ID  |  Title  |  Difficulty  |  Done  |
 | ----  | ----  | :----:  | :----:  |
 |  1  |  [Two Sum ](https://leetcode.com/problems/two-sum/description/)  |  Easy  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/0001.%20Two%20Sum/index.js) |
@@ -1197,7 +1197,7 @@
 |  1233  |  [Number of Ships in a Rectangle 🔒](https://leetcode.com/problems/number-of-ships-in-a-rectangle/description/)  |  Hard  | - |
 |  1234  |  [Number of Paths with Max Score ](https://leetcode.com/problems/number-of-paths-with-max-score/description/)  |  Hard  | - |
 |  1236  |  [N-th Tribonacci Number ](https://leetcode.com/problems/n-th-tribonacci-number/description/)  |  Easy  | - |
-|  1237  |  [Reported Posts II 🔒](https://leetcode.com/problems/reported-posts-ii/description/)  |  Medium  | - |
+|  1237  |  [Reported Posts II 🔒](https://leetcode.com/problems/reported-posts-ii/description/)  |  Medium  | [✔️](https://github.com/hsuan9522/leetcode/blob/master/leetcode/1237.%20Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation/index.js) |
 |  1238  |  [Alphabet Board Path ](https://leetcode.com/problems/alphabet-board-path/description/)  |  Medium  | - |
 |  1239  |  [Largest 1-Bordered Square ](https://leetcode.com/problems/largest-1-bordered-square/description/)  |  Medium  | - |
 |  1240  |  [Stone Game II ](https://leetcode.com/problems/stone-game-ii/description/)  |  Medium  | - |
@@ -1833,7 +1833,12 @@
 |  1953  |  [Finding MK Average ](https://leetcode.com/problems/finding-mk-average/description/)  |  Hard  | - |
 |  1958  |  [Ad-Free Sessions 🔒](https://leetcode.com/problems/ad-free-sessions/description/)  |  Easy  | - |
 |  1959  |  [Minimum Path Cost in a Hidden Grid 🔒](https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid/description/)  |  Medium  | - |
+|  1960  |  [Check if the Sentence Is Pangram ](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/)  |  Easy  | - |
+|  1961  |  [Maximum Ice Cream Bars ](https://leetcode.com/problems/maximum-ice-cream-bars/description/)  |  Medium  | - |
+|  1962  |  [Single-Threaded CPU ](https://leetcode.com/problems/single-threaded-cpu/description/)  |  Medium  | - |
+|  1963  |  [Find XOR Sum of All Pairs Bitwise AND ](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/description/)  |  Hard  | - |
 |  1964  |  [Find Interview Candidates 🔒](https://leetcode.com/problems/find-interview-candidates/description/)  |  Medium  | - |
 |  1969  |  [Maximum Number of Accepted Invitations 🔒](https://leetcode.com/problems/maximum-number-of-accepted-invitations/description/)  |  Medium  | - |
 |  1974  |  [Find Customers With Positive Revenue this Year 🔒](https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/description/)  |  Easy  | - |
 |  1980  |  [Faulty Sensor 🔒](https://leetcode.com/problems/faulty-sensor/description/)  |  Easy  | - |
+|  1981  |  [Maximum Transaction Each Day 🔒](https://leetcode.com/problems/maximum-transaction-each-day/description/)  |  Medium  | - |

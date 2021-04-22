@@ -1,6 +1,9 @@
 ### Detail
 ```markdown
 
+# 2021/4/22
+* 1237. Find Positive Integer Solution for a Given Equation
+
 # 2021/4/20
 * 0590. N-ary Tree Postorder Traversal
 * 0922. Sort Array By Parity II
